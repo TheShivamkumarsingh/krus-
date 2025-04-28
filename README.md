@@ -1,0 +1,2 @@
+# krus-
+kruskal algo
